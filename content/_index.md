@@ -17,21 +17,63 @@ sections:
       title: Skills
       items:
         - name: AWS
-          description: 90%
-          icon: r-project
-          icon_pack: fab
+          description: ⭐⭐⭐⭐
+          icon: aws
+          icon_pack: custom
         - name: Terraform
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
+          description: ⭐⭐⭐⭐
+          icon: terraform
+          icon_pack: custom
         - name: Docker
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          description: ⭐⭐⭐⭐
+          icon: docker
+          icon_pack: custom
         - name: Kubernetes
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          description: ⭐⭐⭐⭐
+          icon: k8s
+          icon_pack: custom
+        - name: Linux
+          description: ⭐⭐⭐⭐
+          icon: linux
+          icon_pack: custom
+        - name: Github ACtions 
+          description: ⭐⭐⭐⭐
+          icon: github-actions
+          icon_pack: custom
+        - name: Gitlab CI/CD
+          description: ⭐⭐
+          icon: gitlab
+          icon_pack: custom
+        - name: Azure
+          description: ⭐
+          icon: azure
+          icon_pack: custom
+        - name: Digital Ocean
+          description: ⭐
+          icon: digital
+          icon_pack: custom
+      
+  - block: portfolio
+    id: achievements
+    content:
+      title: Achievements
+      filters:
+        folders:
+          - achievements
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Certification
+          tag:  certification
+        - name: Award
+          tag:  award
+
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
+
   - block: experience
     id: experience
     content:
