@@ -29,13 +29,13 @@ interests:
   - Software Development
   - DevOps Lifecycle
   - Linux
-  - System Design
+  - Systems Design
 
 # Education to show in About widget
 education:
   courses:
     - course: Bachelor of Science in Software Engineering - BSSE
-      institution: nstitute of Information Technology (IIT), University of Dhaka
+      institution: Institute of Information Technology (IIT), University of Dhaka
       year: 2022
     - course: Higher Secondary Certificate -HSC
       institution: Gurudyal Govt. College, Kishoreganj, Dhaka
@@ -52,21 +52,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mohibul75
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mohibul-alam-623a87179
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
