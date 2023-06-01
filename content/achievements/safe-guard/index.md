@@ -2,7 +2,7 @@
 title: Safeguarding at Workspace
 summary: Creating a Safe Workspace- An Essential Training Program for Employee Awareness and Safety
 tags:
-  - certification
+  - training
 date: '2022-12-23T00:00:00Z'
 
 external_link: ''

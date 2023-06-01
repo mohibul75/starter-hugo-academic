@@ -89,5 +89,5 @@ email: ''
 highlight_name: true
 ---
 
-Meet Mohibul Alam, an Associate DevOps Engineer at Brain Station 23. His areas of expertise include DevOps,Cloud Computing, software development, Linux, and networking. He is always seeking new ways to optimize software development processes and enhance infrastructure performance. In his tech blog, Mohibul shares his personal experiences and learnings in the fields of software engineering and DevOps practices, providing valuable insights and knowledge to his readers.
+Meet Mohibul Alam, an Associate DevOps Engineer at Brain Station 23 and AWS Certified Solution Architect- Associate . His areas of expertise include DevOps,Cloud Computing, software development, Linux, and networking. He is always seeking new ways to optimize software development processes and enhance infrastructure performance. In his tech blog, Mohibul shares his personal experiences and learnings in the fields of software engineering and DevOps practices, providing valuable insights and knowledge to his readers.
 {style="text-align: justify;"}

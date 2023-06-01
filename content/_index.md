@@ -63,16 +63,18 @@ sections:
       default_button_index: 0
       buttons:
         - name: All
-          tag: '*'
+          tag: certification
         - name: Certification
           tag:  certification
         - name: Award
           tag:  award
+        - name: Training
+          tag: training
 
     design:
       columns: '1'
       view: showcase
-      flip_alt_rows: false
+      flip_alt_rows: true
 
   - block: experience
     id: experience
