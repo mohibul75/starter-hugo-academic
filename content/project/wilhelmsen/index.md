@@ -1,7 +1,6 @@
 ---
 title: Wilhelmsen Platfrom 13
-summary: Wilhelmsen Platform 13 is a cutting-edge port management application that revolutionizes how port authorities and operators handle vessel calls, port logistics, suppliers, and activities. Streamlining operations, enhancing collaboration, and providing data-driven insights, it's the 
-future of efficient and transparent port administration.
+summary: Wilhelmsen Platform 13 is a cutting-edge port management application that revolutionizes how port authorities and operators handle vessel calls, port logistics, suppliers, and activities. Streamlining operations, enhancing collaboration, and providing data-driven insights, it is the future of efficient and transparent port administration.
 tags:
   - Industry Project
 date: '2023-7-27T00:00:00Z'
